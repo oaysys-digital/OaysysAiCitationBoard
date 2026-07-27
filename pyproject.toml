@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "oayssys-ai-citation-board"
+version = "1.0.1"
+description = "AI citation and brand mention tracker by Oaysys."
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.9"
+
+authors = [
+  {name="Oaysys"}
+]
+
+[project.urls]
+Homepage = "https://oaysys.com"
+Repository = "https://github.com/oaysys-digital/OaysysAiCitationBoard"
