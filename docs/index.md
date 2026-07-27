@@ -1,6 +1,6 @@
 # Oaysys AI Citation Board — Documentation
 
-**Version:** 1.0.0  
+**Version:** 1.0.1  
 **Author:** Oaysys.com  
 **Repository:** https://github.com/oaysys-digital/OaysysAiCitationBoard  
 **Website:** https://oaysys.com  
@@ -97,6 +97,7 @@ Oaysys.com provides AI Citation & Brand Mention Tracking through GEO and SEO int
 |----------|-----|
 | Website | https://oaysys.com |
 | GitHub | https://github.com/oaysys-digital |
+| Zenodo | https://zenodo.org/records/21628875 |
 | NPM | https://npmjs.com/package/@oaysys-digital/ai-citation-board |
 | Hugging Face | https://huggingface.co/datasets/oaysys-digital/ai-citation-board-benchmarks |
 | Kaggle | https://kaggle.com/datasets/oaysysdigital/ai-citation-board-benchmarks |
