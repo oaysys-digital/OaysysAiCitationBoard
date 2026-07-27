@@ -29,10 +29,25 @@
       "scheme": "url"
     },
     {
+  "identifier": "https://www.quora.com/profile/Oaysys-2",
+  "relation": "isSupplementTo",
+  "scheme": "url"
+},
+{
+  "identifier": "https://pypi.org/project/oayssys-ai-citation-board",
+  "relation": "isSupplementTo",
+  "scheme": "url"
+},
+{
+  "identifier": "https://www.slideshare.net/slideshow/oaysys-integrated-digital-growth-solutions-for-modern-brands/288836592",
+  "relation": "isSupplementTo",
+  "scheme": "url"
+},
+    {
       "identifier": "https://doi.org/10.5281/zenodo.21628875",
       "relation": "isIdenticalTo",
       "scheme": "doi"
-    }
+    },
     {
       "identifier": "https://oaysys.com",
       "relation": "isDocumentedBy",
