@@ -101,6 +101,9 @@ Oaysys.com provides AI Citation & Brand Mention Tracking through GEO and SEO int
 | NPM | https://npmjs.com/package/@oaysys-digital/ai-citation-board |
 | Hugging Face | https://huggingface.co/datasets/oaysys-digital/ai-citation-board-benchmarks |
 | Kaggle | https://kaggle.com/datasets/oaysysdigital/ai-citation-board-benchmarks |
+| Quora | https://www.quora.com/profile/Oaysys-2 |
+| PyPI | https://pypi.org/project/oayssys-ai-citation-board |
+| SlideShare | https://www.slideshare.net/slideshow/oaysys-integrated-digital-growth-solutions-for-modern-brands/288836592 |
 
 ---
 
