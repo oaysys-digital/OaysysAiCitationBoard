@@ -1,6 +1,6 @@
 {
   "name": "@oaysys-digital/ai-citation-board",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AI Citation & Brand Mention Tracker for monitoring brand visibility across AI search engines, websites, and online publications. GEO and SEO intelligence by Oaysys.com",
   "main": "index.js",
   "bin": {
