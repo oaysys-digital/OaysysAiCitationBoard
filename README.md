@@ -1,7 +1,7 @@
 # Oaysys AI Citation Board 🔍🤖
 
 [![npm](https://img.shields.io/npm/v/@oaysys-digital/ai-citation-board)](https://npmjs.com/package/@oaysys-digital/ai-citation-board)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21628875.svg)](https://doi.org/10.5281/zenodo.21628875)
 
 AI Citation & Brand Mention Tracker for monitoring brand visibility across AI search engines, websites, and online publications. Built by [Oaysys.com](https://oaysys.com).
 
@@ -120,7 +120,7 @@ AI Citation Tracker · Brand Mention Monitor · GEO Optimization · Generative E
 | NPM | https://npmjs.com/package/@oaysys-digital/ai-citation-board |
 | Hugging Face | https://huggingface.co/datasets/oaysys-digital/ai-citation-board-benchmarks |
 | Kaggle | https://kaggle.com/datasets/oaysysdigital/ai-citation-board-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/21628875|
 | Docs | https://oaysys-ai-citation-board.readthedocs.io |
 
 ## About Oaysys.com
