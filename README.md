@@ -124,6 +124,7 @@ AI Citation Tracker · Brand Mention Monitor · GEO Optimization · Generative E
 | Quora | https://www.quora.com/profile/Oaysys-2 |
 | PyPi | https://pypi.org/project/oayssys-ai-citation-board|
 | Docs | https://oaysys-ai-citation-board.readthedocs.io |
+| Slide share| https://www.slideshare.net/slideshow/oaysys-integrated-digital-growth-solutions-for-modern-brands/288836592|
 
 ## About Oaysys.com
 
