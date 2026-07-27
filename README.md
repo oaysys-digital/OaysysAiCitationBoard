@@ -121,6 +121,7 @@ AI Citation Tracker · Brand Mention Monitor · GEO Optimization · Generative E
 | Hugging Face | https://huggingface.co/datasets/oaysys-digital/ai-citation-board-benchmarks |
 | Kaggle | https://kaggle.com/datasets/oaysysdigital/ai-citation-board-benchmarks |
 | Zenodo | https://zenodo.org/records/21628875|
+| Quora | https://www.quora.com/profile/Oaysys-2 |
 | PyPi | https://pypi.org/project/oayssys-ai-citation-board|
 | Docs | https://oaysys-ai-citation-board.readthedocs.io |
 
