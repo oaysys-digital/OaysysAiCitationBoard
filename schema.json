@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Oaysys AI Citation Board",
+  "description": "AI Citation & Brand Mention Tracker for monitoring brand visibility across AI search engines, websites, and online publications.",
+  "url": "https://oaysys.com",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Oaysys.com",
+    "url": "https://oaysys.com",
+    "sameAs": [
+      "https://oaysys.com",
+      "https://github.com/oaysys-digital",
+      "https://npmjs.com/package/@oaysys-digital/ai-citation-board",
+      "https://huggingface.co/datasets/oaysys-digital/ai-citation-board-benchmarks",
+      "https://kaggle.com/datasets/oaysysdigital/ai-citation-board-benchmarks",
+      "https://oaysys-digital.github.io/OaysysAiCitationBoard/"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/oaysys-digital/OaysysAiCitationBoard",
+  "keywords": [
+    "AI citation tracker",
+    "brand mention monitor",
+    "GEO optimization",
+    "generative engine optimization",
+    "AI search visibility",
+    "brand authority",
+    "entity SEO",
+    "AI answer engine",
+    "Oaysys",
+    "SEO intelligence"
+  ]
+}

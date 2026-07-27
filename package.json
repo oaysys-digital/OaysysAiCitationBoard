@@ -1,0 +1,37 @@
+{
+  "name": "@oaysys-digital/ai-citation-board",
+  "version": "1.0.0",
+  "description": "AI Citation & Brand Mention Tracker for monitoring brand visibility across AI search engines, websites, and online publications. GEO and SEO intelligence by Oaysys.com",
+  "main": "index.js",
+  "bin": {
+    "oaysys-ai-citation-board": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ai-citation-board",
+    "brand-mention-monitor",
+    "geo-optimization",
+    "generative-engine-optimization",
+    "ai-search-visibility",
+    "brand-authority",
+    "entity-seo",
+    "ai-answer-engine",
+    "oaysys",
+    "seo-intelligence",
+    "brand-tracking",
+    "ai-citation-tracker"
+  ],
+  "author": "Oaysys.com",
+  "license": "MIT",
+  "homepage": "https://oaysys.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oaysys-digital/OaysysAiCitationBoard"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Oaysys AI Citation Board",
+  "description": "AI Citation & Brand Mention Tracker for monitoring brand visibility across AI search engines, websites, and online publications. GEO and SEO intelligence by Oaysys.com.",
+  "creators": [
+    {
+      "name": "Oaysys.com"
+    }
+  ],
+  "keywords": [
+    "AI citation tracker",
+    "brand mention monitor",
+    "GEO optimization",
+    "generative engine optimization",
+    "AI search visibility",
+    "brand authority",
+    "entity SEO",
+    "AI answer engine",
+    "Oaysys",
+    "SEO intelligence"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/oaysys-digital/OaysysAiCitationBoard",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://oaysys.com",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@oaysys-digital/ai-citation-board",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/oaysys-digital/ai-citation-board-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://kaggle.com/datasets/oaysysdigital/ai-citation-board-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
