@@ -1,0 +1,21 @@
+id,brand,industry,ai_citation_score,geo_score,brand_mention_score,seo_visibility_score,entity_authority_score,source_quality_score,overall_citation_health,priority_action,chatgpt_score,perplexity_score,google_ai_score,gemini_score,copilot_score,notes
+1,TechStartup Inc,Technology,85,78,90,72,88,80,82,SEO Visibility,85,88,81,77,75,Strong AI citation presence
+2,HealthBrand Co,Healthcare,80,75,85,68,82,78,78,SEO Visibility,80,82,78,74,70,Good health sector visibility
+3,FinTech Solutions,Finance,88,82,92,76,90,85,86,SEO Visibility,88,91,85,81,77,Excellent fintech authority
+4,EduPlatform Ltd,Education,72,68,78,62,75,70,71,SEO Visibility,72,74,71,67,63,Healthy education presence
+5,RetailBrand Global,Retail,65,60,70,55,68,63,64,SEO Visibility,65,67,62,59,57,At risk — needs SEO boost
+6,LegalFirm Pro,Legal,78,74,83,68,80,76,77,SEO Visibility,78,80,77,73,69,Good legal citation health
+7,MediaHouse Digital,Media,90,86,95,82,92,88,89,SEO Visibility,90,93,89,85,79,Excellent media authority
+8,PropertyGroup Inc,Real Estate,70,65,75,60,72,68,68,SEO Visibility,70,72,68,64,62,Healthy baseline presence
+9,AutoBrand Motors,Automotive,82,78,87,72,84,80,81,SEO Visibility,82,84,81,77,72,Strong automotive visibility
+10,FoodChain Global,Food & Beverage,76,72,81,66,78,74,75,SEO Visibility,76,78,75,71,67,Good food brand presence
+11,TravelApp Co,Travel,88,84,92,78,90,86,86,SEO Visibility,88,91,87,83,77,Excellent travel citation
+12,InsureTech Ltd,Insurance,74,70,79,64,76,72,73,SEO Visibility,74,76,73,69,65,Healthy insurance presence
+13,GreenEnergy Corp,Energy,85,80,89,75,87,83,83,SEO Visibility,85,88,83,79,75,Strong sustainability authority
+14,SportsBrand Pro,Sports,80,76,85,70,82,78,79,SEO Visibility,80,82,79,75,70,Good sports citation health
+15,PharmaCo Global,Pharmaceutical,92,88,96,84,94,90,91,SEO Visibility,92,95,92,87,81,Excellent pharma authority
+16,AgriTech Startup,Agriculture,62,58,67,52,64,60,61,SEO Visibility,62,64,60,57,55,At risk — needs improvement
+17,LogisticsPro Inc,Logistics,78,74,83,68,80,76,77,SEO Visibility,78,80,77,73,69,Good logistics presence
+18,CloudSaaS Co,Software,88,84,93,78,90,86,87,SEO Visibility,88,91,87,83,77,Excellent SaaS authority
+19,NgoCharity Org,Non-Profit,70,66,76,60,72,68,69,SEO Visibility,70,72,69,65,62,Healthy nonprofit presence
+20,CryptoExchange Ltd,Crypto,82,78,87,72,84,80,81,SEO Visibility,82,84,81,77,72,Strong crypto citation health
